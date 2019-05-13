@@ -1,0 +1,262 @@
+#nav ul {
+	margin:0;
+	padding:0;
+	list-style:none;
+	width:200px;
+}
+#nav ul li {
+	position:relative;
+	border-bottom:2px solid #ccc;
+}
+#nav li ul{
+	position:absolute;
+	left:200px;
+	top:0px;
+	display:none;
+}
+#nav ul li a {
+	display:block;
+	text-decoration:none;
+	color:#777;
+	background:#0099ff;
+	padding:5px;
+	color:white;
+}
+#nav li:hover ul {
+	display:block;
+}
+#nav li:hover a {
+	color:#fff;
+	background:blue;
+}
+#nav li:hover ul a:hover{
+	background-color:0099cc;
+	background-image:none;
+	color:#fff;
+}
+#tyda{
+	background:url(рыбы.jpg);
+}
+
+body {
+	background:url(more.jpg);
+}
+p{
+	font-size:22px;
+}
+p {
+	color:white;
+}
+h1{
+	color:pink;
+}
+h2{
+	color:pink;
+}
+.sdf{
+	float:left;
+}
+
+#sd {
+	overflow: hidden;
+}
+.zxc{
+	float:left;
+}
+
+#zx {
+	overflow: hidden;
+}
+#s{
+	overflow: hidden;
+}
+.poi{
+	float:left;
+}	
+#p{
+	overflow: hidden;
+}
+.i{
+	float:left;
+}	
+
+#r{
+	overflow: hidden;
+}
+.r{
+	float:left;
+}	
+#o{
+	overflow: hidden;
+}
+.oo{
+	float:left;
+}	
+#e{
+	overflow: hidden;
+}
+.ee{
+	float:left;
+}	
+
+#l{
+	overflow: hidden;
+}
+.pol{
+	float:left;
+}	
+#li{
+	overflow: hidden;
+}
+.poli{
+	float:left;
+}	
+
+#lk{
+	overflow: hidden;
+}
+.polk{
+	float:left;
+}	
+#lkl{
+	overflow: hidden;
+}
+.polkl{
+	float:left;
+}	
+
+#w{
+	overflow: hidden;
+}
+.ww{
+	float:left;
+}	
+
+#lq{
+	overflow: hidden;
+}
+.polq{
+	float:left;
+}	
+
+#lqq{
+	overflow: hidden;
+}
+.pqq{
+	float:left;
+}	
+
+#wa{
+	overflow: hidden;
+}
+.aw{
+	float:left;
+}	
+
+#zw{
+	overflow: hidden;
+}
+.wz{
+	float:left;
+}	
+
+#v{
+	overflow: hidden;
+}
+.wv{
+	float:left;
+}	
+
+#m{
+	overflow: hidden;
+}
+.wm{
+	float:left;
+}	
+
+#ew{
+	overflow: hidden;
+}
+.ee{
+	float:left;
+}	
+
+#wc{
+	overflow: hidden;
+}
+.wwc{
+	float:left;
+}	
+
+#zwz{
+	overflow: hidden;
+}
+.wzz{
+	float:left;
+}	
+#pox{
+	overflow: hidden;
+}
+.wzx{
+	float:left;
+}	
+
+#zwc{
+	overflow: hidden;
+}
+.wzc{
+	float:left;
+}	
+#rty{
+	overflow: hidden;
+}
+
+.rt{
+	float:left;
+}	
+
+#pob{
+	overflow: hidden;
+}
+
+.nb{
+	float:left;
+}	
+
+#wcn{
+	overflow: hidden;
+}
+
+.mn{
+	float:left;
+}	
+
+#wcnz{
+	overflow: hidden;
+}
+
+.mnz{
+	float:left;
+}	
+
+#ti a {
+	overflow: hidden;
+}
+
+#q{
+	overflow: hidden;
+}
+
+.e{
+	float:left;
+}	
+
+
+
+
+
+
+
+
+
+
